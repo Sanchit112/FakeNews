@@ -1,0 +1,8 @@
+data = read.csv("tweets_fake.csv")
+View(data)
+class(data)
+dim(data)
+summary(data)
+colnames(data)
+data = subset(data, select = -c(profile_image_url, background_image))
+head(data)
