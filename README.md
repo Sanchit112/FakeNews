@@ -47,7 +47,7 @@ https://www.kaggle.com/mrisdal/fake-news
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See [`LICENSE`](https://github.com/Sanchit112/FakeNews/blob/master/LICENSE) for more information.
 
 
 
@@ -56,7 +56,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 [Sanchit Burkule] (mailto:sanchitburkule@gmail.com)
 
-Project Link: [https://github.com/Sanchit112/FakeNews_name](https://github.com/Sanchit112/FakeNews)
+Project Link: [https://github.com/Sanchit112/FakeNews](https://github.com/Sanchit112/FakeNews)
 
 
 
