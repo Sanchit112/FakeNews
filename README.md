@@ -54,7 +54,7 @@ Distributed under the MIT License. See [`LICENSE`](https://github.com/Sanchit112
 <!-- CONTACT -->
 ## Contact
 
-[Sanchit Burkule] (mailto:sanchitburkule@gmail.com)
+[Sanchit Burkule](mailto:sanchitburkule@gmail.com)
 
 Project Link: [https://github.com/Sanchit112/FakeNews](https://github.com/Sanchit112/FakeNews)
 
@@ -84,5 +84,5 @@ Project Link: [https://github.com/Sanchit112/FakeNews](https://github.com/Sanchi
 [license-shield]: https://img.shields.io/github/license/Sanchit112/FakeNews.svg?style=flat-square
 [license-url]: https://github.com/Sanchit112/FakeNews/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/sanchit-burkule-94456a152
+[linkedin-url]: https://www.linkedin.com/in/sanchitburkule
 [product-screenshot]: images/screenshot.png
